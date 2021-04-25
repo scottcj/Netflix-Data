@@ -6,5 +6,5 @@ On this webpage we will be sharing data visualizations using a database containi
 
 ### Group Members:
 
-*Tyler Shanahan
-*Connor Scott
+* [Tyler Shanahan](Tyler)
+* [Connor Scott](Connor)
