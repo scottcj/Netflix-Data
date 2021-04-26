@@ -8,3 +8,4 @@ On this webpage we will be sharing data visualizations using a database containi
 
 * [Tyler Shanahan](Tyler)
 * [Connor Scott](Connor)
+* [Andreas Mueller-Immergluck](Andreas)
