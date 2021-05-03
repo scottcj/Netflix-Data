@@ -18,3 +18,4 @@ On this webpage we will be sharing data visualizations using a database containi
 * [Connor Scott](Connor)
   * Connor will be looking into merging the IMDB dataset and doing some visualizations using the different countries and ratings.
 * [Andreas Mueller-Immergluck](Andreas)
+  * Andreas will merge the IMDB datasets with the Netflix dataset to visualize ratings based on movie/tv show descriptions. 
