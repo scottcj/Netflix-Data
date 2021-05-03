@@ -14,6 +14,7 @@ On this webpage we will be sharing data visualizations using a database containi
 ### Group Members:
 
 * [Tyler Shanahan](Tyler)
+  * Tyler will be looking at the different tv show ratings and use visualizations to compare different variables. 
 * [Connor Scott](Connor)
   * Connor will be looking into merging the IMDB dataset and doing some visualizations using the different countries and ratings.
 * [Andreas Mueller-Immergluck](Andreas)
