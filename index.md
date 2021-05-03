@@ -15,4 +15,5 @@ I dont think we will all be using this data but in [Connor's](Connor) section he
 
 * [Tyler Shanahan](Tyler)
 * [Connor Scott](Connor)
+Connor will be looking into merging the IMDB dataset and doing some visualizations using the different countries and ratings.
 * [Andreas Mueller-Immergluck](Andreas)
