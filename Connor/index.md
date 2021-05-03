@@ -18,3 +18,6 @@ This visualzation is using the numVotes column that contains the number of ratin
 
 I thought this was a bit wierd so I took a sample of 5 movies from the dataframe and found that only 1 or 2 of these 5 ever lined up with what the IMDB website had for the rating. Based on my samples, the IMDB dataset must not be updated very frequently or there is some problem with their system. Not being able to look at these ratings is annoying but it was goot practice to check if 
 a dataset is correct or not.
+
+### COMING SOON...
+I intend on doing a visualization that compares the different countries that netflix provides movies to based on what rating movies and shows they receive.
