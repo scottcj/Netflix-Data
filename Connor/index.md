@@ -21,3 +21,5 @@ a dataset is correct or not.
 
 ### COMING SOON...
 I intend on doing a visualization that compares the different countries that netflix provides movies to based on what rating movies and shows they receive.
+
+{% include_relative visualizations/RatingsPieChart.html %}
