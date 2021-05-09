@@ -26,6 +26,7 @@ a dataset is correct or not.
 As stated in my interest section I wanted to compare the ratings of movies and tv shows released in different countries to allow a conclusion to be drawn about what demographic netflix caters to and if it changes depending on what country you watch from.
 The first step was to create a pie chart based on the entire dataframe so that you can compare the pie charts for individual contries with a baseline. Then I was able to plot the rest of the individual countries that I want to look at and compare between them and the baseline.
 
+### Baseline
 {% include_relative visualizations/BaselinePieChart.html %}
-
+### By Country
 {% include_relative visualizations/RatingsPieChart.html %}
