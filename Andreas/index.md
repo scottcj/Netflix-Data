@@ -6,9 +6,9 @@ Interest: I'd be interested in comparing the amount of releases of each genre be
 
 Here is a plotly visualization of the frequency of certain ratings of TV shows and Movies on Netflix.
 
-<img width="653" alt="Screen Shot 2021-04-26 at 10 37 24 AM" src="https://user-images.githubusercontent.com/66276355/116126369-6f188c00-a67b-11eb-9bbd-8e58443ed065.png">
+{% include_relative plotly/netflix-ratings.html %}
 
-<img width="545" alt="Screen Shot 2021-05-04 at 11 12 19 AM" src="https://user-images.githubusercontent.com/66276355/117051809-cf3aae00-accb-11eb-8cd3-b77bb1b5efed.png">
+
 
 Here is a visualization of the average movie/tv show ratings from the countries with the most content on Netflix. This graph was made after merging the Netflix data with the IMDB datasets which included the ratings. As we can see, it appears that the UK and South Korea have a slightly better average tv show/movie ratings on their Netflix, followed by USA, India, and Canada. All the average ratings are pretty close, so the range on the y-axis was changed to show the differences better. 
 
