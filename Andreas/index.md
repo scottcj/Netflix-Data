@@ -35,6 +35,8 @@ I wanted to compare what the most common words were in the descritions by releas
 
 I was having troubles saving this graph as an html so I had to upload it as a static image instead, as opposed to the live html bar graph shown previously. As we can see from this graph, the most commmon word used the descriptions for most the movies and shows released the past four years is "life". Other commonly used words were "family", "new", and "young". I was also surprised to see that "school" was a common topic in movies and shows released in 2020, perhaps due to the covid pandemic and school experiences changing to such a dramatic extent. I also noticed that "man" was mentioned more in the descriptions compared to "woman" for each release year, indicating that the movie industry is still male dominated. 
 
+### Movie and TV show description words wordcloud
+
 As an additional visualization, I created a wordcloud of the most common words used in the descriptions of movies and shows released in 2020 on the United States Netflix. I made the wordcloud into the shape of the Netflix logo. 
 
 <img width="864" alt="Screen Shot 2021-05-13 at 4 40 30 PM" src="https://user-images.githubusercontent.com/66276355/118218046-8604ff80-b42b-11eb-8dbf-99cda159c399.png">
