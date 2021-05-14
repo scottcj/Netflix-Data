@@ -11,19 +11,19 @@ Data issues encountered: Our current dataset of netflix shows and movies current
 ### Comparing recent years rating distributions.
 I am looking to compare the ratings distributions of movies based on release year and I will be specficially looking to focus on recent years. To do this I first looked to create a pie chart based on the rating of every movie in the dataframe so that we could compare each of the individual years to a baseline chart. After that I looked to create a pie chart for the ratings of the years 2020, 2019, 2018, 2017, 2016 and 2015.
 
-## Baseline 
+### Baseline 
 {% include_relative Visualization/movieratings.html %}
-## 2020
+### 2020
 {% include_relative Visualization/2020ratings.html %}
-## 2019
+### 2019
 {% include_relative Visualization/2019ratings.html %}
-## 2018
+### 2018
 {% include_relative Visualization/2018ratings.html %}
-## 2017
+### 2017
 {% include_relative Visualization/2017ratings.html %}
-## 2016
+### 2016
 {% include_relative Visualization/2016ratings.html %}
-## 2015
+### 2015
 {% include_relative Visualization/2015ratings.html %}
 
 
