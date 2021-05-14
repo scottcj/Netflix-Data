@@ -14,16 +14,16 @@ I am looking to compare the ratings distributions of movies based on release yea
 ### Baseline 
 {% include_relative Visualization/movieratings.html %}
 ### 2020
-{% include_relative Visualization/2020ratings.html %}
+{% include_relative Visualization/2020movies.html %}
 ### 2019
-{% include_relative Visualization/2019ratings.html %}
+{% include_relative Visualization/2019movies.html %}
 ### 2018
-{% include_relative Visualization/2018ratings.html %}
+{% include_relative Visualization/2018movies.html %}
 ### 2017
-{% include_relative Visualization/2017ratings.html %}
+{% include_relative Visualization/2017movies.html %}
 ### 2016
-{% include_relative Visualization/2016ratings.html %}
+{% include_relative Visualization/2016movies.html %}
 ### 2015
-{% include_relative Visualization/2015ratings.html %}
+{% include_relative Visualization/2015movies.html %}
 
 
