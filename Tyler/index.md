@@ -25,5 +25,8 @@ I am looking to compare the ratings distributions of movies based on release yea
 {% include_relative Visualization/2016movies.html %}
 ### 2015
 {% include_relative Visualization/2015movies.html %}
-
+### 2011
+{% include_relative Visualization/2011movies.html %}
+### jupyter notebook
+{% include_relative Visualization/Netflix Movies and Shows.html %}
 
