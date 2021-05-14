@@ -25,8 +25,14 @@ I am looking to compare the ratings distributions of movies based on release yea
 {% include_relative Visualization/2016movies.html %}
 ### 2015
 {% include_relative Visualization/2015movies.html %}
+
+After looking at the rating distribution for the past 5 years I quickly realised that the Mature Audience rating has been increasing in numbers in recent years. To furthur look at this question I decided to visualize the rating distribution for the year 2011, a decade ago from this year.
+
 ### 2011
 {% include_relative Visualization/2011movies.html %}
+
+The rating distribution for 2011 supports my ideas as it shows that the mature audience rating wasn't so common a decade ago.
+
 ### jupyter notebook
 {% include_relative Visualization/Netflix Movies and Shows.html %}
 
